@@ -1,0 +1,2639 @@
+{
+  "schemaVersion": 1,
+  "server": {
+    "id": "bwv",
+    "name": "BWV",
+    "host": "182.161.246.147",
+    "port": 16261,
+    "gameVersion": "42.21.0"
+  },
+  "launcher": null,
+  "modSet": {
+    "revision": "2026-10-17_20-10-54",
+    "workshopItems": [
+      {
+        "workshopId": "3659447892",
+        "manifestId": "4618021278913835352",
+        "updatedAtUnixSeconds": 1772183247,
+        "title": "Server Workshop Mod Update Checker \u0026 Auto-Restart (B42) 42.13\u002B MP HDRcade",
+        "modIds": [
+          "ServerWorkshopModAutoRestartB42"
+        ]
+      },
+      {
+        "workshopId": "3619862853",
+        "manifestId": "4305125393151977167",
+        "updatedAtUnixSeconds": 1791033976,
+        "title": "ZombieBuddy",
+        "modIds": [
+          "ZombieBuddy"
+        ]
+      },
+      {
+        "workshopId": "3423660713",
+        "manifestId": "2631036818276621850",
+        "updatedAtUnixSeconds": 1786090266,
+        "title": "Mod Load Order Sorter [b42]",
+        "modIds": [
+          "ModLoadOrderSorter_b42"
+        ]
+      },
+      {
+        "workshopId": "3567084868",
+        "manifestId": "7361398909311414298",
+        "updatedAtUnixSeconds": 1787949502,
+        "title": "[B42] Mod Manager",
+        "modIds": [
+          "ModManager"
+        ]
+      },
+      {
+        "workshopId": "3610677934",
+        "manifestId": "9062007985337482975",
+        "updatedAtUnixSeconds": 1792133167,
+        "title": "Hot Brass - Visible Casing Ejection Framework [B42.15]",
+        "modIds": [
+          "HBVCEFb42"
+        ]
+      },
+      {
+        "workshopId": "3396446795",
+        "manifestId": "2113706208152156621",
+        "updatedAtUnixSeconds": 1788783344,
+        "title": "MoodleFramework",
+        "modIds": [
+          "MoodleFramework"
+        ]
+      },
+      {
+        "workshopId": "3508537032",
+        "manifestId": "3024185932859359210",
+        "updatedAtUnixSeconds": 1789992909,
+        "title": "NeatUI_Framework",
+        "modIds": [
+          "NeatUI_Framework"
+        ]
+      },
+      {
+        "workshopId": "3786513059",
+        "manifestId": "6014244310706176920",
+        "updatedAtUnixSeconds": 1788983176,
+        "title": "Project Tarkov - Framework",
+        "modIds": [
+          "ProjectTarkovFramework",
+          "ProjectTarkovOverall",
+          "ProjectTarkovMainMenu"
+        ]
+      },
+      {
+        "workshopId": "3682045254",
+        "manifestId": "569136026768639639",
+        "updatedAtUnixSeconds": 1788192310,
+        "title": "Unified Carry Weight Framework",
+        "modIds": [
+          "UnifiedCarryWeightFramework"
+        ]
+      },
+      {
+        "workshopId": "3429790870",
+        "manifestId": "7113109815498248931",
+        "updatedAtUnixSeconds": 1766700971,
+        "title": "Tomb\u0027s Player Body",
+        "modIds": [
+          "TombBody",
+          "TombBodyTex",
+          "TombBodyCustom"
+        ]
+      },
+      {
+        "workshopId": "3810889791",
+        "manifestId": "4105259243634521774",
+        "updatedAtUnixSeconds": 1792025934,
+        "title": "Add Slop Faces - Neck Fix - Textures",
+        "modIds": [
+          "AddSlopFacesNeckFixTombBodyTex",
+          "AddSlopFaces",
+          "AddSlopFacesMale"
+        ]
+      },
+      {
+        "workshopId": "3119788162",
+        "manifestId": "7102740349020978747",
+        "updatedAtUnixSeconds": 1787862955,
+        "title": "Every Texture Optimized: Well Balanced",
+        "modIds": [
+          "ETO_B"
+        ]
+      },
+      {
+        "workshopId": "3386522939",
+        "manifestId": "8967412172063355322",
+        "updatedAtUnixSeconds": 1786367512,
+        "title": "[B42] Invisible Patches mod",
+        "modIds": [
+          "InvisiblePatches"
+        ]
+      },
+      {
+        "workshopId": "3414634809",
+        "manifestId": "3225343497556466788",
+        "updatedAtUnixSeconds": 1787670927,
+        "title": "Spongie\u0027s Character Customisation",
+        "modIds": [
+          "SPNCC",
+          "SPNCCDetails",
+          "SPNCCDetailsHD"
+        ]
+      },
+      {
+        "workshopId": "3809306528",
+        "manifestId": "784075833376244914",
+        "updatedAtUnixSeconds": 1792125660,
+        "title": "Viewpoint",
+        "modIds": [
+          "Viewpoint"
+        ]
+      },
+      {
+        "workshopId": "3814398576",
+        "manifestId": "7894320027618161100",
+        "updatedAtUnixSeconds": 1792071278,
+        "title": "Viewpoint - Surface Fix",
+        "modIds": [
+          "ViewpointSurface"
+        ]
+      },
+      {
+        "workshopId": "3592172476",
+        "manifestId": "133936791974019588",
+        "updatedAtUnixSeconds": 1791281664,
+        "title": "Take A Bath And Shower: DepthMap fix",
+        "modIds": [
+          "ATakeABathAndShowerDepthMap",
+          "TakeABathAndShowerNew"
+        ]
+      },
+      {
+        "workshopId": "3391877435",
+        "manifestId": "8108524423765003875",
+        "updatedAtUnixSeconds": 1773501483,
+        "title": "Brandenburg, Ekron and Irvington Spawn Locations",
+        "modIds": [
+          "BrandenburgEkronIrvingtonSpawnLocations"
+        ]
+      },
+      {
+        "workshopId": "3480990544",
+        "manifestId": "3248921632343997400",
+        "updatedAtUnixSeconds": 1790951360,
+        "title": "Constown B42",
+        "modIds": [
+          "Constown42"
+        ]
+      },
+      {
+        "workshopId": "3741334453",
+        "manifestId": "5166869064854723719",
+        "updatedAtUnixSeconds": 1790951222,
+        "title": "New Hartburg",
+        "modIds": [
+          "newhartburg"
+        ]
+      },
+      {
+        "workshopId": "3543229299",
+        "manifestId": "4642441416644551868",
+        "updatedAtUnixSeconds": 1787711085,
+        "title": "[B42]PROJECT RV Interior",
+        "modIds": [
+          "PROJECTRVInterior42"
+        ]
+      },
+      {
+        "workshopId": "3484263516",
+        "manifestId": "4057491633360589734",
+        "updatedAtUnixSeconds": 1789883053,
+        "title": "Raven Creek B42",
+        "modIds": [
+          "RavenCreekB42"
+        ]
+      },
+      {
+        "workshopId": "3618427553",
+        "manifestId": "357722881490928558",
+        "updatedAtUnixSeconds": 1778260790,
+        "title": "RV Interior Expansion",
+        "modIds": [
+          "RVInteriorExpansion"
+        ]
+      },
+      {
+        "workshopId": "3622163276",
+        "manifestId": "2280816716070420916",
+        "updatedAtUnixSeconds": 1765504267,
+        "title": "RV Interior Expansion Part 2",
+        "modIds": [
+          "RVInteriorExpansionPart2"
+        ]
+      },
+      {
+        "workshopId": "3711569431",
+        "manifestId": "8578336232859774553",
+        "updatedAtUnixSeconds": 1785821880,
+        "title": "Trelai - Unoficial B42 port",
+        "modIds": [
+          "Trelai_B42"
+        ]
+      },
+      {
+        "workshopId": "3171167894",
+        "manifestId": "4158561511494796435",
+        "updatedAtUnixSeconds": 1791917231,
+        "title": "that DAMN Library",
+        "modIds": [
+          "damnlib"
+        ]
+      },
+      {
+        "workshopId": "2900580391",
+        "manifestId": "2981594046999089743",
+        "updatedAtUnixSeconds": 1769110343,
+        "title": "\u002749 Dodge Power Wagon Crew Cab",
+        "modIds": [
+          "49powerWagon"
+        ]
+      },
+      {
+        "workshopId": "3005903549",
+        "manifestId": "7947134893367348578",
+        "updatedAtUnixSeconds": 1769712525,
+        "title": "\u002763 Volkswagen 1300 Beetle",
+        "modIds": [
+          "63beetle"
+        ]
+      },
+      {
+        "workshopId": "2937786633",
+        "manifestId": "6070138644557561489",
+        "updatedAtUnixSeconds": 1769712295,
+        "title": "\u002769 Mini Mk2",
+        "modIds": [
+          "69mini",
+          "69mini_ItalianJob"
+        ]
+      },
+      {
+        "workshopId": "2799152995",
+        "manifestId": "4530409693942469436",
+        "updatedAtUnixSeconds": 1778782962,
+        "title": "\u002778 AM General M35 Series Trucks",
+        "modIds": [
+          "78amgeneralM35A2",
+          "78amgeneralM35A2extra",
+          "78amgeneralM49A2C",
+          "78amgeneralM50A3"
+        ]
+      },
+      {
+        "workshopId": "2618213077",
+        "manifestId": "8920027427423514595",
+        "updatedAtUnixSeconds": 1786648549,
+        "title": "\u002782 Oshkosh M911",
+        "modIds": [
+          "82oshkoshM911"
+        ]
+      },
+      {
+        "workshopId": "3799732653",
+        "manifestId": "2379420327611409089",
+        "updatedAtUnixSeconds": 1792087131,
+        "title": "\u002783 GMC G-Series Vans",
+        "modIds": [
+          "83gmcGseriesVans"
+        ]
+      },
+      {
+        "workshopId": "3570973322",
+        "manifestId": "6829747273449649920",
+        "updatedAtUnixSeconds": 1791483202,
+        "title": "\u002789 LAND ROVER Defender",
+        "modIds": [
+          "89defender"
+        ]
+      },
+      {
+        "workshopId": "2971246021",
+        "manifestId": "804581659932954935",
+        "updatedAtUnixSeconds": 1771527416,
+        "title": "\u002799 Ford Crown Victoria Police Interceptor",
+        "modIds": [
+          "99fordCVPI"
+        ]
+      },
+      {
+        "workshopId": "3790021065",
+        "manifestId": "6425535886810841243",
+        "updatedAtUnixSeconds": 1789714447,
+        "title": "AM General Tanker Functionality",
+        "modIds": [
+          "AMGeneralTankerFunctionality"
+        ]
+      },
+      {
+        "workshopId": "3402491515",
+        "manifestId": "7056769913890164287",
+        "updatedAtUnixSeconds": 1791798792,
+        "title": "Tsar\u0027s Common Library",
+        "modIds": [
+          "tsarslib"
+        ]
+      },
+      {
+        "workshopId": "3402493701",
+        "manifestId": "5892046855769800988",
+        "updatedAtUnixSeconds": 1788916299,
+        "title": "Autotsar Trailers",
+        "modIds": [
+          "autotsartrailers"
+        ]
+      },
+      {
+        "workshopId": "3670064951",
+        "manifestId": "6122070718638938853",
+        "updatedAtUnixSeconds": 1789673072,
+        "title": "Campers!",
+        "modIds": [
+          "KI5campers"
+        ]
+      },
+      {
+        "workshopId": "3670959466",
+        "manifestId": "3046739266646514659",
+        "updatedAtUnixSeconds": 1771996419,
+        "title": "Animations Smooth Sync Vehicle 42.13.2",
+        "modIds": [
+          "AnimSyncSmth"
+        ]
+      },
+      {
+        "workshopId": "3816419379",
+        "manifestId": "6263425793683909320",
+        "updatedAtUnixSeconds": 1792226704,
+        "title": "Project Viewpoint Map Mod Furniture",
+        "modIds": [
+          "aparosa_vpmo_RaccoonCityB42"
+        ]
+      },
+      {
+        "workshopId": "3793163745",
+        "manifestId": "4502782574853511266",
+        "updatedAtUnixSeconds": 1790597197,
+        "title": "Area Tasks",
+        "modIds": [
+          "AreaTasks"
+        ]
+      },
+      {
+        "workshopId": "3770091088",
+        "manifestId": "6975692868500212567",
+        "updatedAtUnixSeconds": 1787457887,
+        "title": "Warm Up",
+        "modIds": [
+          "BION_WarmUp"
+        ]
+      },
+      {
+        "workshopId": "2815560151",
+        "manifestId": "4680998173156114595",
+        "updatedAtUnixSeconds": 1788095601,
+        "title": "Share Annotations",
+        "modIds": [
+          "BLTAnnotations"
+        ]
+      },
+      {
+        "workshopId": "3565244378",
+        "manifestId": "1050838953013300298",
+        "updatedAtUnixSeconds": 1786705890,
+        "title": "[B42] Briefing",
+        "modIds": [
+          "Briefing"
+        ]
+      },
+      {
+        "workshopId": "3394044313",
+        "manifestId": "6398934434376096628",
+        "updatedAtUnixSeconds": 1789056594,
+        "title": "Buttstroke",
+        "modIds": [
+          "Buttstroke"
+        ]
+      },
+      {
+        "workshopId": "3785695033",
+        "manifestId": "4134335748637988334",
+        "updatedAtUnixSeconds": 1787076511,
+        "title": "Vehicle Enter/Exit Fix",
+        "modIds": [
+          "CarEnterExitFix"
+        ]
+      },
+      {
+        "workshopId": "3783874874",
+        "manifestId": "6097812616716366361",
+        "updatedAtUnixSeconds": 1786803473,
+        "title": "Vehicle Weapon Clipping Fix",
+        "modIds": [
+          "CarWeaponFix"
+        ]
+      },
+      {
+        "workshopId": "3695510332",
+        "manifestId": "7894785268764260169",
+        "updatedAtUnixSeconds": 1774842358,
+        "title": "Character Outfit Preset Fix",
+        "modIds": [
+          "CharacterOutfitPresetFix"
+        ]
+      },
+      {
+        "workshopId": "3792900796",
+        "manifestId": "5730244399600463845",
+        "updatedAtUnixSeconds": 1789792431,
+        "title": "Common Sense Reup",
+        "modIds": [
+          "CommonSenseReup"
+        ]
+      },
+      {
+        "workshopId": "3789660055",
+        "manifestId": "8452884986572917377",
+        "updatedAtUnixSeconds": 1788744492,
+        "title": "Container Capacity Indicator",
+        "modIds": [
+          "ContainerCapacityIndicator"
+        ]
+      },
+      {
+        "workshopId": "3780688809",
+        "manifestId": "4177060703484948873",
+        "updatedAtUnixSeconds": 1790347517,
+        "title": "Context Menu Cleanup",
+        "modIds": [
+          "ContextMenuCleanup"
+        ]
+      },
+      {
+        "workshopId": "3791948588",
+        "manifestId": "8654240306815851088",
+        "updatedAtUnixSeconds": 1790693978,
+        "title": "Cool Sit",
+        "modIds": [
+          "CoolSit"
+        ]
+      },
+      {
+        "workshopId": "3399161235",
+        "manifestId": "7681049576431908900",
+        "updatedAtUnixSeconds": 1774148720,
+        "title": "Craft and Build Category Translate [B42]",
+        "modIds": [
+          "Craft and Build Category Translate [B42]"
+        ]
+      },
+      {
+        "workshopId": "3779343349",
+        "manifestId": "5290677558824661661",
+        "updatedAtUnixSeconds": 1790616236,
+        "title": "Custom Light Switch",
+        "modIds": [
+          "CustomLightSwitch"
+        ]
+      },
+      {
+        "workshopId": "3775160975",
+        "manifestId": "1364452239594082745",
+        "updatedAtUnixSeconds": 1791635509,
+        "title": "DerpyAutodrive",
+        "modIds": [
+          "DerpyAutodrive"
+        ]
+      },
+      {
+        "workshopId": "3387957272",
+        "manifestId": "2090631452188383818",
+        "updatedAtUnixSeconds": 1787971238,
+        "title": "Detailed Descriptions for Occupations and Traits",
+        "modIds": [
+          "DetailedDescriptionsForOccupationsAndTraits"
+        ]
+      },
+      {
+        "workshopId": "3162566044",
+        "manifestId": "9121909250978170609",
+        "updatedAtUnixSeconds": 1781871533,
+        "title": "More Immersive Vehicles B42",
+        "modIds": [
+          "DG_MIVehicles"
+        ]
+      },
+      {
+        "workshopId": "3401946546",
+        "manifestId": "532814129705086504",
+        "updatedAtUnixSeconds": 1736173137,
+        "title": "Ellie - Voice",
+        "modIds": [
+          "Ellie1Voice"
+        ]
+      },
+      {
+        "workshopId": "3572846242",
+        "manifestId": "4155145536394170038",
+        "updatedAtUnixSeconds": 1789875232,
+        "title": "Detailed Skill Tooltips",
+        "modIds": [
+          "EURY_DST"
+        ]
+      },
+      {
+        "workshopId": "3786970737",
+        "manifestId": "1051983266934532188",
+        "updatedAtUnixSeconds": 1791750081,
+        "title": "Exhaustive Power Rework",
+        "modIds": [
+          "ExhaustivePowerRework"
+        ]
+      },
+      {
+        "workshopId": "3044705007",
+        "manifestId": "9108820113139251107",
+        "updatedAtUnixSeconds": 1789773890,
+        "title": "Fix BlowTorch \u0026 PropaneTank",
+        "modIds": [
+          "FixBlowTorchPropaneTank"
+        ]
+      },
+      {
+        "workshopId": "3778709615",
+        "manifestId": "5970066834361766005",
+        "updatedAtUnixSeconds": 1791379763,
+        "title": "[B42.21] Simple Belt Flashlight\u002B (Better Flashlights Compatible)",
+        "modIds": [
+          "FixedLightOnBeltAF"
+        ]
+      },
+      {
+        "workshopId": "2940354599",
+        "manifestId": "2496040693616325635",
+        "updatedAtUnixSeconds": 1789662436,
+        "title": "FWO Working Bench Press \u0026 Treadmill",
+        "modIds": [
+          "FWOBenchPressTreadmill",
+          "FWOFitnessWorkoutOverhaul"
+        ]
+      },
+      {
+        "workshopId": "3818853354",
+        "manifestId": "3236196156508958133",
+        "updatedAtUnixSeconds": 1792000000,
+        "title": "Grassier Grass (Viewpoint)",
+        "modIds": [
+          "GrassierGrassViewpoint"
+        ]
+      },
+      {
+        "workshopId": "3403870858",
+        "manifestId": "801277412387517090",
+        "updatedAtUnixSeconds": 1789815299,
+        "title": "Lifestyle: Hobbies",
+        "modIds": [
+          "LifestyleHobbies"
+        ]
+      },
+      {
+        "workshopId": "3412944806",
+        "manifestId": "2340911271853542149",
+        "updatedAtUnixSeconds": 1786173084,
+        "title": "Guitar Music Addon",
+        "modIds": [
+          "GuitarMusicAddon"
+        ]
+      },
+      {
+        "workshopId": "3816083168",
+        "manifestId": "8795365805561690498",
+        "updatedAtUnixSeconds": 1792137360,
+        "title": "Hardship: Inertia",
+        "modIds": [
+          "HardshipInertia"
+        ]
+      },
+      {
+        "workshopId": "3713005182",
+        "manifestId": "459156987976493362",
+        "updatedAtUnixSeconds": 1786569574,
+        "title": "Hark\u0027s Horde Night Revamped",
+        "modIds": [
+          "HHNR"
+        ]
+      },
+      {
+        "workshopId": "3819976507",
+        "manifestId": "2297194592486002639",
+        "updatedAtUnixSeconds": 1792191302,
+        "title": "Hot Brass for Viewpoint",
+        "modIds": [
+          "HotBrassViewpoint"
+        ]
+      },
+      {
+        "workshopId": "3589548354",
+        "manifestId": "5398114592138389683",
+        "updatedAtUnixSeconds": 1791816785,
+        "title": "Improved Hair Menu Build 42",
+        "modIds": [
+          "improvedhairmenubuild42",
+          "ihm_picker"
+        ]
+      },
+      {
+        "workshopId": "3783711793",
+        "manifestId": "3415560879570376557",
+        "updatedAtUnixSeconds": 1787407205,
+        "title": "Immersive Backpack Sounds",
+        "modIds": [
+          "ImmersiveBackpackSounds (3783711793)"
+        ]
+      },
+      {
+        "workshopId": "3817413313",
+        "manifestId": "1962717557737842085",
+        "updatedAtUnixSeconds": 1792149641,
+        "title": "Immersive Driving",
+        "modIds": [
+          "ImmersiveDriving"
+        ]
+      },
+      {
+        "workshopId": "3780552862",
+        "manifestId": "220794466194796061",
+        "updatedAtUnixSeconds": 1787908388,
+        "title": "[MLT]\uAC1C\uC120\uB41C \uD55C\uAE00\uD0C0\uC774\uD551",
+        "modIds": [
+          "Improved-KorChat"
+        ]
+      },
+      {
+        "workshopId": "3648051123",
+        "manifestId": "2209824264937611989",
+        "updatedAtUnixSeconds": 1768936783,
+        "title": "Injured Zombies Stumble",
+        "modIds": [
+          "InjuredZombiesStumble"
+        ]
+      },
+      {
+        "workshopId": "3796373365",
+        "manifestId": "2591490143843743757",
+        "updatedAtUnixSeconds": 1791024253,
+        "title": "It is of interest to me!",
+        "modIds": [
+          "ItIsOfInterestToMe"
+        ]
+      },
+      {
+        "workshopId": "2757712197",
+        "manifestId": "7649294315159745379",
+        "updatedAtUnixSeconds": 1791940466,
+        "title": "Vehicle Repair Overhaul [build 42]",
+        "modIds": [
+          "VehicleRepairOverhaul",
+          "VehicleSalvageOverhaulB42"
+        ]
+      },
+      {
+        "workshopId": "3543612325",
+        "manifestId": "1974606723997074163",
+        "updatedAtUnixSeconds": 1791887499,
+        "title": "Restore Engine Quality",
+        "modIds": [
+          "Ivmakk_RestoreEngineQuality"
+        ]
+      },
+      {
+        "workshopId": "3338664412",
+        "manifestId": "3530707512476054731",
+        "updatedAtUnixSeconds": 1791704590,
+        "title": "REVIVAL by Jaxe",
+        "modIds": [
+          "JaxeRevival"
+        ]
+      },
+      {
+        "workshopId": "3674013419",
+        "manifestId": "1144466032820874150",
+        "updatedAtUnixSeconds": 1790256016,
+        "title": "Jeeve\u0027s Claims",
+        "modIds": [
+          "JeevesClaims"
+        ]
+      },
+      {
+        "workshopId": "3739941052",
+        "manifestId": "6645073374479533760",
+        "updatedAtUnixSeconds": 1790249791,
+        "title": "Jeeve\u0027s Zones",
+        "modIds": [
+          "JeevesZones"
+        ]
+      },
+      {
+        "workshopId": "3789366983",
+        "manifestId": "5106875554958603464",
+        "updatedAtUnixSeconds": 1792105122,
+        "title": "KI5 General Fixes",
+        "modIds": [
+          "KI5GeneralFixes"
+        ]
+      },
+      {
+        "workshopId": "3808100388",
+        "manifestId": "3071193473583086153",
+        "updatedAtUnixSeconds": 1790380014,
+        "title": "KI5 Vehicle Performance Patch (Unofficial)",
+        "modIds": [
+          "KI5PerfPatch"
+        ]
+      },
+      {
+        "workshopId": "2553809727",
+        "manifestId": "8134259270852217296",
+        "updatedAtUnixSeconds": 1789036314,
+        "title": "KillCount",
+        "modIds": [
+          "KillCount"
+        ]
+      },
+      {
+        "workshopId": "3389605231",
+        "manifestId": "8405110910720873438",
+        "updatedAtUnixSeconds": 1791190973,
+        "title": "TchernoLib",
+        "modIds": [
+          "TchernoLib"
+        ]
+      },
+      {
+        "workshopId": "3652012357",
+        "manifestId": "9125698628469130176",
+        "updatedAtUnixSeconds": 1789534939,
+        "title": "Lean \u0026 Lie",
+        "modIds": [
+          "LeanAndLie"
+        ]
+      },
+      {
+        "workshopId": "3779562002",
+        "manifestId": "5527047339058710489",
+        "updatedAtUnixSeconds": 1790800321,
+        "title": "LG Extended Electricity",
+        "modIds": [
+          "LGExtendedElectricity",
+          "LGRealisticPowerUsage"
+        ]
+      },
+      {
+        "workshopId": "3779561845",
+        "manifestId": "992346962004093115",
+        "updatedAtUnixSeconds": 1790800359,
+        "title": "LG Extended Plumbing",
+        "modIds": [
+          "LGExtendedPlumbing"
+        ]
+      },
+      {
+        "workshopId": "3786502002",
+        "manifestId": "856270385081756634",
+        "updatedAtUnixSeconds": 1790800385,
+        "title": "LG Extended Safehouses",
+        "modIds": [
+          "LGExtendedSafehouses"
+        ]
+      },
+      {
+        "workshopId": "3789597000",
+        "manifestId": "2042388695453140035",
+        "updatedAtUnixSeconds": 1790800556,
+        "title": "LG Walkie Talkies",
+        "modIds": [
+          "LGWalkieTalkies"
+        ]
+      },
+      {
+        "workshopId": "3785198639",
+        "manifestId": "7056661629254409838",
+        "updatedAtUnixSeconds": 1786980065,
+        "title": "Map All Known Fix (B42 MP)",
+        "modIds": [
+          "MapAllKnownFix"
+        ]
+      },
+      {
+        "workshopId": "2734705913",
+        "manifestId": "2793851412236394798",
+        "updatedAtUnixSeconds": 1785602059,
+        "title": "Map Symbol Size Slider",
+        "modIds": [
+          "MapSymbolSizeSlider"
+        ]
+      },
+      {
+        "workshopId": "3633421539",
+        "manifestId": "6406515251394288770",
+        "updatedAtUnixSeconds": 1791993684,
+        "title": "AAA_ModernFirearmsSystem(42.19)(SP/MP)",
+        "modIds": [
+          "ModernFirearmsSystem",
+          "BackpackSystemB42",
+          "BladesmithSystemB42",
+          "ModernFirearmsSystemDamageSandbox"
+        ]
+      },
+      {
+        "workshopId": "3780151182",
+        "manifestId": "5283410462117989261",
+        "updatedAtUnixSeconds": 1792001744,
+        "title": "[B42.20] Modern Firearms System Community Fix Patch",
+        "modIds": [
+          "MFS_community_fix",
+          "MFS_BackpackSystem_fix",
+          "MFS_BladesmithSystem_fix",
+          "MFS_community_fix_low_RPM"
+        ]
+      },
+      {
+        "workshopId": "3817234916",
+        "manifestId": "1994798382746751252",
+        "updatedAtUnixSeconds": 1792164707,
+        "title": "MFS - Expansion UI (Community Patch)",
+        "modIds": [
+          "MFS_Expansion_UI"
+        ]
+      },
+      {
+        "workshopId": "3817229061",
+        "manifestId": "7373603256776464810",
+        "updatedAtUnixSeconds": 1791981359,
+        "title": "MFS Loot Control",
+        "modIds": [
+          "MFS_LootControl"
+        ]
+      },
+      {
+        "workshopId": "3526517370",
+        "manifestId": "6677067483332015563",
+        "updatedAtUnixSeconds": 1791636251,
+        "title": "Minimap Style Options",
+        "modIds": [
+          "MinimapStyleOptions"
+        ]
+      },
+      {
+        "workshopId": "3762856854",
+        "manifestId": "5088071752645794011",
+        "updatedAtUnixSeconds": 1783812930,
+        "title": "ModernFirearmsLootFix",
+        "modIds": [
+          "ModernFirearms_LootFix"
+        ]
+      },
+      {
+        "workshopId": "3779201168",
+        "manifestId": "334181197982716785",
+        "updatedAtUnixSeconds": 1786596614,
+        "title": "ModFolders",
+        "modIds": [
+          "ModFolders"
+        ]
+      },
+      {
+        "workshopId": "3740657520",
+        "manifestId": "5815911775521880299",
+        "updatedAtUnixSeconds": 1790150285,
+        "title": "MW Jeeves \uD55C\uAE00 \uBC88\uC5ED",
+        "modIds": [
+          "MW Jeeves KO",
+          "MW \uBAA8\uB4DC\uD55C\uAE00 \uBC88\uC5ED",
+          "BritaB42 KO MW"
+        ]
+      },
+      {
+        "workshopId": "2960400616",
+        "manifestId": "6216137243892503264",
+        "updatedAtUnixSeconds": 1790348463,
+        "title": "NieR Replicant/Automata/Drakengard Lifestyle Addon",
+        "modIds": [
+          "NieR Replicant/Automata/Drakengard Lifestyle Addon"
+        ]
+      },
+      {
+        "workshopId": "2714198296",
+        "manifestId": "4595325357044799555",
+        "updatedAtUnixSeconds": 1791229814,
+        "title": "I Don\u0027t Need A Lighter",
+        "modIds": [
+          "NoLighterNeeded"
+        ]
+      },
+      {
+        "workshopId": "3815999052",
+        "manifestId": "8232259739954156368",
+        "updatedAtUnixSeconds": 1792225900,
+        "title": "OldPoint",
+        "modIds": [
+          "OldPoint"
+        ]
+      },
+      {
+        "workshopId": "2769706949",
+        "manifestId": "427034749284156961",
+        "updatedAtUnixSeconds": 1791591446,
+        "title": "Tidy Up Meister",
+        "modIds": [
+          "P4TidyUpMeister"
+        ]
+      },
+      {
+        "workshopId": "2744797858",
+        "manifestId": "7079939369344644887",
+        "updatedAtUnixSeconds": 1790639206,
+        "title": "Video Meister",
+        "modIds": [
+          "P4VideoMeister"
+        ]
+      },
+      {
+        "workshopId": "3806955469",
+        "manifestId": "8816385624599616094",
+        "updatedAtUnixSeconds": 1790940666,
+        "title": "True Cargo",
+        "modIds": [
+          "PFHDTrueCargo"
+        ]
+      },
+      {
+        "workshopId": "3764655475",
+        "manifestId": "8200151115104644072",
+        "updatedAtUnixSeconds": 1787214640,
+        "title": "Plumbed Sink Mains Water Fix [B42]",
+        "modIds": [
+          "PlumbedSinkMainsFix"
+        ]
+      },
+      {
+        "workshopId": "3490188370",
+        "manifestId": "8118461277566935257",
+        "updatedAtUnixSeconds": 1791811588,
+        "title": "Project Cook",
+        "modIds": [
+          "Project_Cook",
+          "Project_Cook_Pixel_Icon_Pack"
+        ]
+      },
+      {
+        "workshopId": "3815019204",
+        "manifestId": "7328860906283736268",
+        "updatedAtUnixSeconds": 1791745931,
+        "title": "Project Viewpoint - KI5 Vehicle Parts Fix",
+        "modIds": [
+          "ProjectViewpointKI5VehiclePartsFix"
+        ]
+      },
+      {
+        "workshopId": "3813172420",
+        "manifestId": "850269657936025638",
+        "updatedAtUnixSeconds": 1791688001,
+        "title": "Project Viewpoint: TREE in 3D",
+        "modIds": [
+          "ProjectViewpointNearVegetation"
+        ]
+      },
+      {
+        "workshopId": "3807119354",
+        "manifestId": "962060953669197033",
+        "updatedAtUnixSeconds": 1792166876,
+        "title": "PZ_Optimization \uD55C\uAE00\uD328\uCE58 [B42]",
+        "modIds": [
+          "PZOptKorean"
+        ]
+      },
+      {
+        "workshopId": "3810302175",
+        "manifestId": "5895352647901461173",
+        "updatedAtUnixSeconds": 1791924117,
+        "title": "6277 3D models for Viewpoint [sour_kisel]",
+        "modIds": [
+          "PZVoxelStudioViewpoint"
+        ]
+      },
+      {
+        "workshopId": "3635591071",
+        "manifestId": "5439344231519877502",
+        "updatedAtUnixSeconds": 1788493877,
+        "title": "Realistic Dashboard and Gauges",
+        "modIds": [
+          "RealisticDash"
+        ]
+      },
+      {
+        "workshopId": "3804234552",
+        "manifestId": "3070863007650706276",
+        "updatedAtUnixSeconds": 1789808357,
+        "title": "Recipe Unlock Guide [B42]",
+        "modIds": [
+          "RecipeUnlockGuide"
+        ]
+      },
+      {
+        "workshopId": "2920899878",
+        "manifestId": "3491227263370833396",
+        "updatedAtUnixSeconds": 1788033043,
+        "title": "Reload All Magazines",
+        "modIds": [
+          "ReloadAllMagazines"
+        ]
+      },
+      {
+        "workshopId": "2903771337",
+        "manifestId": "1937801233413123149",
+        "updatedAtUnixSeconds": 1734502625,
+        "title": "Reorder The Hotbar",
+        "modIds": [
+          "REORDER_THE_HOTBAR"
+        ]
+      },
+      {
+        "workshopId": "3806123164",
+        "manifestId": "788570734312537986",
+        "updatedAtUnixSeconds": 1790066610,
+        "title": "Project RV Interior Vision Fix [B42.20]",
+        "modIds": [
+          "RVInteriorVisionFixB4220"
+        ]
+      },
+      {
+        "workshopId": "2946364542",
+        "manifestId": "4141241599205936541",
+        "updatedAtUnixSeconds": 1789164726,
+        "title": "Search Containers",
+        "modIds": [
+          "SearchContainers"
+        ]
+      },
+      {
+        "workshopId": "2857762294",
+        "manifestId": "912778531374938090",
+        "updatedAtUnixSeconds": 1787862980,
+        "title": "Smoking Sounds Overhaul",
+        "modIds": [
+          "SmokingSoundsOverhaul"
+        ]
+      },
+      {
+        "workshopId": "3378285185",
+        "manifestId": "5602372571619659577",
+        "updatedAtUnixSeconds": 1787179139,
+        "title": "Starlit Library",
+        "modIds": [
+          "StarlitLibrary"
+        ]
+      },
+      {
+        "workshopId": "3786918614",
+        "manifestId": "7422691702452215297",
+        "updatedAtUnixSeconds": 1789843454,
+        "title": "Hands",
+        "modIds": [
+          "StowInHands"
+        ]
+      },
+      {
+        "workshopId": "3818945612",
+        "manifestId": "1045805705474923886",
+        "updatedAtUnixSeconds": 1791867857,
+        "title": "Tactical Hold \u002B Fancy Handwork",
+        "modIds": [
+          "TacHoldFancyHandwork"
+        ]
+      },
+      {
+        "workshopId": "3786120850",
+        "manifestId": "3664364634572816019",
+        "updatedAtUnixSeconds": 1788369876,
+        "title": "Tactical Flashlight Animation [B42]",
+        "modIds": [
+          "TacticalFlashlightAnimationB42"
+        ]
+      },
+      {
+        "workshopId": "3389115640",
+        "manifestId": "2274163653306681070",
+        "updatedAtUnixSeconds": 1766412326,
+        "title": "TakeAnyAmount",
+        "modIds": [
+          "TakeAnyAmount"
+        ]
+      },
+      {
+        "workshopId": "3792740760",
+        "manifestId": "4365359698247923229",
+        "updatedAtUnixSeconds": 1789696453,
+        "title": "True Line of Sight",
+        "modIds": [
+          "TrueLineOfSight"
+        ]
+      },
+      {
+        "workshopId": "3781533687",
+        "manifestId": "7114358804898264840",
+        "updatedAtUnixSeconds": 1787135582,
+        "title": "True Sleep - Better Multiplayer Sleep",
+        "modIds": [
+          "TrueSleep"
+        ]
+      },
+      {
+        "workshopId": "3802372726",
+        "manifestId": "5055613185575791077",
+        "updatedAtUnixSeconds": 1791492607,
+        "title": "True Swimming",
+        "modIds": [
+          "TrueSwimming"
+        ]
+      },
+      {
+        "workshopId": "3768669395",
+        "manifestId": "5220206499056780934",
+        "updatedAtUnixSeconds": 1785625450,
+        "title": "True Weight",
+        "modIds": [
+          "TrueWeight"
+        ]
+      },
+      {
+        "workshopId": "3404348394",
+        "manifestId": "5532275451417639713",
+        "updatedAtUnixSeconds": 1787178593,
+        "title": "TTRP Poses",
+        "modIds": [
+          "TTRPPosesB42"
+        ]
+      },
+      {
+        "workshopId": "3797492691",
+        "manifestId": "257005425600830983",
+        "updatedAtUnixSeconds": 1791145790,
+        "title": "Try Before You Wear",
+        "modIds": [
+          "TryBeforeYouWear"
+        ]
+      },
+      {
+        "workshopId": "3571222611",
+        "manifestId": "6549987104189830243",
+        "updatedAtUnixSeconds": 1786768161,
+        "title": "TwisTonFire - Darker Map",
+        "modIds": [
+          "twistdarkermap"
+        ]
+      },
+      {
+        "workshopId": "3814486926",
+        "manifestId": "5233274152141256139",
+        "updatedAtUnixSeconds": 1791267515,
+        "title": "Viewpoint - 3D Fences",
+        "modIds": [
+          "ViewpointFences3D"
+        ]
+      },
+      {
+        "workshopId": "3816442251",
+        "manifestId": "8172364064721501672",
+        "updatedAtUnixSeconds": 1791951664,
+        "title": "Viewpoint: Living Props",
+        "modIds": [
+          "ViewpointLivingProps"
+        ]
+      },
+      {
+        "workshopId": "3816521966",
+        "manifestId": "4980842565770715728",
+        "updatedAtUnixSeconds": 1791871448,
+        "title": "Viewpoint Placement Fix",
+        "modIds": [
+          "ViewpointPlacementFix"
+        ]
+      },
+      {
+        "workshopId": "3819018807",
+        "manifestId": "3343917922068525661",
+        "updatedAtUnixSeconds": 1791951023,
+        "title": "Viewpoint - Right Click Fix",
+        "modIds": [
+          "ViewpointRightClick"
+        ]
+      },
+      {
+        "workshopId": "3813908957",
+        "manifestId": "252921505768095965",
+        "updatedAtUnixSeconds": 1792200340,
+        "title": "Project Viewpoint: True Weathers \u0026 Lighting",
+        "modIds": [
+          "ViewpointTrueWeathers",
+          "ViewpointTrueWeathersGameplay"
+        ]
+      },
+      {
+        "workshopId": "3815630947",
+        "manifestId": "1407185701204062137",
+        "updatedAtUnixSeconds": 1791930369,
+        "title": "Viewpoint Rolling Hills",
+        "modIds": [
+          "ViewpointRollingHills"
+        ]
+      },
+      {
+        "workshopId": "3464700263",
+        "manifestId": "7519984505718681490",
+        "updatedAtUnixSeconds": 1762591068,
+        "title": "Voice - Ellie Williams",
+        "modIds": [
+          "VoiceEllieWilliams"
+        ]
+      },
+      {
+        "workshopId": "3496043022",
+        "manifestId": "4591851216088909615",
+        "updatedAtUnixSeconds": 1749475833,
+        "title": "Voice - Joel Miller",
+        "modIds": [
+          "VoiceJoelMiller"
+        ]
+      },
+      {
+        "workshopId": "3501302358",
+        "manifestId": "3431602997584122368",
+        "updatedAtUnixSeconds": 1791041827,
+        "title": "Vehicle Seat UI (KI5)",
+        "modIds": [
+          "VSUIKI5"
+        ]
+      },
+      {
+        "workshopId": "3281755175",
+        "manifestId": "88695617590409929",
+        "updatedAtUnixSeconds": 1785349583,
+        "title": "Vanilla Vehicles Animated: disable passenger rendering",
+        "modIds": [
+          "VVA_cullseats",
+          "VanillaVehiclesAnimated"
+        ]
+      },
+      {
+        "workshopId": "3796765129",
+        "manifestId": "2563348829476230478",
+        "updatedAtUnixSeconds": 1790523487,
+        "title": "Wash Faster",
+        "modIds": [
+          "WashFaster"
+        ]
+      },
+      {
+        "workshopId": "3784348098",
+        "manifestId": "3741785662184412864",
+        "updatedAtUnixSeconds": 1791557791,
+        "title": "Whose Key Is This?",
+        "modIds": [
+          "WhoseKeyIsThis"
+        ]
+      },
+      {
+        "workshopId": "3342110208",
+        "manifestId": "2150773111667665047",
+        "updatedAtUnixSeconds": 1790051518,
+        "title": "WorldMap Name Symbols",
+        "modIds": [
+          "WorldMapNameSymbols"
+        ]
+      },
+      {
+        "workshopId": "3814073243",
+        "manifestId": "1406253575272174512",
+        "updatedAtUnixSeconds": 1792161011,
+        "title": "Zombie Visibility Fix",
+        "modIds": [
+          "ZombieVisibilityFix"
+        ]
+      },
+      {
+        "workshopId": "3775549570",
+        "manifestId": "7499184873383521779",
+        "updatedAtUnixSeconds": 1790955476,
+        "title": "Alice\u0027s Weapon Sling",
+        "modIds": [
+          "alicesWeaponSling"
+        ]
+      },
+      {
+        "workshopId": "3777544219",
+        "manifestId": "2875128396515972028",
+        "updatedAtUnixSeconds": 1785855139,
+        "title": "[B42] Brita\u0027s Armor Pack - Build 42 Port",
+        "modIds": [
+          "BritaArmorB42"
+        ]
+      },
+      {
+        "workshopId": "3432928943",
+        "manifestId": "7788892449958896680",
+        "updatedAtUnixSeconds": 1786469415,
+        "title": "Escape From Tarkov Backpacks",
+        "modIds": [
+          "EFTBP"
+        ]
+      },
+      {
+        "workshopId": "2447729538",
+        "manifestId": "5365465656407858217",
+        "updatedAtUnixSeconds": 1786359514,
+        "title": "Fluffy Hair",
+        "modIds": [
+          "FH"
+        ]
+      },
+      {
+        "workshopId": "3798146388",
+        "manifestId": "7564758342082271137",
+        "updatedAtUnixSeconds": 1791639166,
+        "title": "Frockin Backstage!",
+        "modIds": [
+          "GanydeBielovzki\u0027s Frockin Backstage!"
+        ]
+      },
+      {
+        "workshopId": "3411888105",
+        "manifestId": "2163373948611174631",
+        "updatedAtUnixSeconds": 1791554977,
+        "title": "Frockin Splendor! Vol.2",
+        "modIds": [
+          "GanydeBielovzki\u0027s Frockin Splendor! Vol.2"
+        ]
+      },
+      {
+        "workshopId": "3431256608",
+        "manifestId": "6138952440827561698",
+        "updatedAtUnixSeconds": 1791550554,
+        "title": "Frockin Splendor! Vol.3",
+        "modIds": [
+          "GanydeBielovzki\u0027s Frockin Splendor! Vol.3"
+        ]
+      },
+      {
+        "workshopId": "3475347500",
+        "manifestId": "2448755413714194287",
+        "updatedAtUnixSeconds": 1791550419,
+        "title": "Frockin Splendor! Vol.4",
+        "modIds": [
+          "GanydeBielovzki\u0027s Frockin Splendor! Vol.4"
+        ]
+      },
+      {
+        "workshopId": "3538760023",
+        "manifestId": "4538012624662304585",
+        "updatedAtUnixSeconds": 1791550119,
+        "title": "Frockin Wiseguys!",
+        "modIds": [
+          "GanydeBielovzki\u0027s Frockin Wiseguys"
+        ]
+      },
+      {
+        "workshopId": "3784235810",
+        "manifestId": "3950885488978317011",
+        "updatedAtUnixSeconds": 1789265464,
+        "title": "Fishing Overhaul BR [B42]",
+        "modIds": [
+          "PeixesBRExpansion"
+        ]
+      },
+      {
+        "workshopId": "3774898489",
+        "manifestId": "3413950123810016686",
+        "updatedAtUnixSeconds": 1787773915,
+        "title": "TTRP Hairstyles",
+        "modIds": [
+          "TTRPHairstyles"
+        ]
+      },
+      {
+        "workshopId": "3401134276",
+        "manifestId": "627110098308108299",
+        "updatedAtUnixSeconds": 1788814510,
+        "title": "Vanilla Gear Expanded",
+        "modIds": [
+          "VanillaGearExpanded"
+        ]
+      },
+      {
+        "workshopId": "3783567014",
+        "manifestId": "3365361609829165390",
+        "updatedAtUnixSeconds": 1791326902,
+        "title": "Kitsune\u0027s Crossbow Mod",
+        "modIds": [
+          "alicesKitsunesCrossbowMod"
+        ]
+      },
+      {
+        "workshopId": "2788256295",
+        "manifestId": "4516923607383831705",
+        "updatedAtUnixSeconds": 1790765048,
+        "title": "Ammo Maker",
+        "modIds": [
+          "ammomaker"
+        ]
+      },
+      {
+        "workshopId": "3268487204",
+        "manifestId": "4510332278455279422",
+        "updatedAtUnixSeconds": 1791843488,
+        "title": "Bandits",
+        "modIds": [
+          "Bandits2"
+        ]
+      },
+      {
+        "workshopId": "3818859807",
+        "manifestId": "1381180432784648232",
+        "updatedAtUnixSeconds": 1792005943,
+        "title": "Project Viewpoint - 3D Doors, Gates \u0026 Garages",
+        "modIds": [
+          "BasileDoors3D"
+        ]
+      },
+      {
+        "workshopId": "3795847162",
+        "manifestId": "8988077071508529032",
+        "updatedAtUnixSeconds": 1788574890,
+        "title": "Better Fire Extinguishers",
+        "modIds": [
+          "BetterFireExtinguishers"
+        ]
+      },
+      {
+        "workshopId": "3420478458",
+        "manifestId": "5141237356491927106",
+        "updatedAtUnixSeconds": 1789408279,
+        "title": "[B42] Better Flashlights",
+        "modIds": [
+          "BetterFlashlightsFixed"
+        ]
+      },
+      {
+        "workshopId": "3459887404",
+        "manifestId": "7373006311845537545",
+        "updatedAtUnixSeconds": 1791857526,
+        "title": "BuildingCraft",
+        "modIds": [
+          "BuildingCraft"
+        ]
+      },
+      {
+        "workshopId": "3781616141",
+        "manifestId": "7284409140098169236",
+        "updatedAtUnixSeconds": 1789034599,
+        "title": "Vehicle Aim Roof Fix",
+        "modIds": [
+          "CarRoofFix"
+        ]
+      },
+      {
+        "workshopId": "3077900375",
+        "manifestId": "5726953119991604654",
+        "updatedAtUnixSeconds": 1775660491,
+        "title": "Mod Update and Alert System",
+        "modIds": [
+          "ChuckleberryFinnAlertSystem"
+        ]
+      },
+      {
+        "workshopId": "3791152383",
+        "manifestId": "7452397139809913677",
+        "updatedAtUnixSeconds": 1792102538,
+        "title": "Dynamic Outposts",
+        "modIds": [
+          "claimableoutposts_dynamic_hordes"
+        ]
+      },
+      {
+        "workshopId": "3805221815",
+        "manifestId": "5767555693417507024",
+        "updatedAtUnixSeconds": 1791793222,
+        "title": "Curl Up",
+        "modIds": [
+          "CurlUp"
+        ]
+      },
+      {
+        "workshopId": "3749026793",
+        "manifestId": "5623694253436114452",
+        "updatedAtUnixSeconds": 1786994277,
+        "title": "Carry Visible Items",
+        "modIds": [
+          "CVI"
+        ]
+      },
+      {
+        "workshopId": "2459400130",
+        "manifestId": "4435345240156320594",
+        "updatedAtUnixSeconds": 1791448444,
+        "title": "Dynamic Traits and Expanded Moodles",
+        "modIds": [
+          "DynamicTraits"
+        ]
+      },
+      {
+        "workshopId": "2896041179",
+        "manifestId": "1843564598560025539",
+        "updatedAtUnixSeconds": 1787161107,
+        "title": "errorMagnifier",
+        "modIds": [
+          "errorMagnifier"
+        ]
+      },
+      {
+        "workshopId": "3785740658",
+        "manifestId": "307561750724426693",
+        "updatedAtUnixSeconds": 1790355373,
+        "title": "Fence Sheets",
+        "modIds": [
+          "FenceSheets"
+        ]
+      },
+      {
+        "workshopId": "3795414660",
+        "manifestId": "7817744975110173477",
+        "updatedAtUnixSeconds": 1788563329,
+        "title": "Fitted Barricades",
+        "modIds": [
+          "FittedBarricades"
+        ]
+      },
+      {
+        "workshopId": "3794207681",
+        "manifestId": "4622639829505172511",
+        "updatedAtUnixSeconds": 1790355251,
+        "title": "Fitted Sheets",
+        "modIds": [
+          "FittedSheets"
+        ]
+      },
+      {
+        "workshopId": "3812189182",
+        "manifestId": "2735178291720745048",
+        "updatedAtUnixSeconds": 1791893684,
+        "title": "\uD55C\uAD6D\uC5B4 \uD3F0\uD2B8 - \uAC08\uBB34\uB9AC11",
+        "modIds": [
+          "Galmuri11font",
+          "alicesKitsunesCrossbowMod_KOR",
+          "AreaTasks_KOR",
+          "ProjectALifeJimmy_KOR",
+          "ProjectALifeNPCs_KOR",
+          "RoamingSurvivors_KOR",
+          "RSJobs_KOR",
+          "SMB_steps_KOR",
+          "TacticalGridInventory_KOR",
+          "WashFaster_KOR",
+          "ExtractionMode_KOR"
+        ]
+      },
+      {
+        "workshopId": "3307376332",
+        "manifestId": "2551557353776084034",
+        "updatedAtUnixSeconds": 1785420695,
+        "title": "Frockin Splendor!",
+        "modIds": [
+          "GanydeBielovzki\u0027s Frockin Splendor!"
+        ]
+      },
+      {
+        "workshopId": "3807099610",
+        "manifestId": "1740008982855023296",
+        "updatedAtUnixSeconds": 1792154925,
+        "title": "Hug The Plushie!",
+        "modIds": [
+          "HugThePlushie"
+        ]
+      },
+      {
+        "workshopId": "3653092321",
+        "manifestId": "9000843964379511907",
+        "updatedAtUnixSeconds": 1774023661,
+        "title": "Immersive Hotwire",
+        "modIds": [
+          "immersive_hotwire"
+        ]
+      },
+      {
+        "workshopId": "3810071828",
+        "manifestId": "2576058932275719573",
+        "updatedAtUnixSeconds": 1791710536,
+        "title": "Immersive Snow",
+        "modIds": [
+          "ImmersiveSnow"
+        ]
+      },
+      {
+        "workshopId": "3816586790",
+        "manifestId": "8081079610956895258",
+        "updatedAtUnixSeconds": 1791710568,
+        "title": "Immersive Snow - Viewpoint",
+        "modIds": [
+          "ImmersiveSnowViewpoint"
+        ]
+      },
+      {
+        "workshopId": "3767639280",
+        "manifestId": "8352947675289742681",
+        "updatedAtUnixSeconds": 1787511087,
+        "title": "Item Arrange",
+        "modIds": [
+          "ItemArrange"
+        ]
+      },
+      {
+        "workshopId": "3815218606",
+        "manifestId": "3871220147879813287",
+        "updatedAtUnixSeconds": 1791963555,
+        "title": "\uD55C\uC2DD \uD55C\uC0C1 / Korean Hansang",
+        "modIds": [
+          "KoreanHansang"
+        ]
+      },
+      {
+        "workshopId": "3549794747",
+        "manifestId": "7580927829048705040",
+        "updatedAtUnixSeconds": 1756666587,
+        "title": "Eyewear rework project patched for Tombs body [B42]",
+        "modIds": [
+          "low_profile_glassis_tombs_body_positionfix"
+        ]
+      },
+      {
+        "workshopId": "3787909643",
+        "manifestId": "5925954942339436110",
+        "updatedAtUnixSeconds": 1792205946,
+        "title": "Muzzle Smoke",
+        "modIds": [
+          "MuzzleSmoke"
+        ]
+      },
+      {
+        "workshopId": "3780532913",
+        "manifestId": "2456797628547890621",
+        "updatedAtUnixSeconds": 1788038259,
+        "title": "Nick\u0027s Sledgehammer Fix",
+        "modIds": [
+          "NicksSledgehammerFix"
+        ]
+      },
+      {
+        "workshopId": "3800132623",
+        "manifestId": "663616503526760775",
+        "updatedAtUnixSeconds": 1792149570,
+        "title": "NPC Crew",
+        "modIds": [
+          "NPCCrew"
+        ]
+      },
+      {
+        "workshopId": "3744455714",
+        "manifestId": "4976707132468760470",
+        "updatedAtUnixSeconds": 1788835045,
+        "title": "Pager Network",
+        "modIds": [
+          "PagerMod"
+        ]
+      },
+      {
+        "workshopId": "3796669056",
+        "manifestId": "5223251741816267292",
+        "updatedAtUnixSeconds": 1790715938,
+        "title": "The Mutants",
+        "modIds": [
+          "PZTheMutants"
+        ]
+      },
+      {
+        "workshopId": "2981090458",
+        "manifestId": "2008092206958036070",
+        "updatedAtUnixSeconds": 1736474615,
+        "title": "Reduced Weight Walkie Talkies",
+        "modIds": [
+          "ReducedWeightWalkieTalkies"
+        ]
+      },
+      {
+        "workshopId": "2142622992",
+        "manifestId": "2813289696658968053",
+        "updatedAtUnixSeconds": 1785664447,
+        "title": "Repair Any Clothes",
+        "modIds": [
+          "RepairAnyClothes"
+        ]
+      },
+      {
+        "workshopId": "3790825976",
+        "manifestId": "9114576714365633321",
+        "updatedAtUnixSeconds": 1790933588,
+        "title": "RPG Survivor Progression [v1.2 | B42.20.4 | MP\u002BSP]",
+        "modIds": [
+          "RPGSurvivorProgression"
+        ]
+      },
+      {
+        "workshopId": "3813032735",
+        "manifestId": "3894383114300791913",
+        "updatedAtUnixSeconds": 1792231511,
+        "title": "Shoot to Thrill - Multiplayer (Restart game after enabling)",
+        "modIds": [
+          "ShootToThrillMultiplayer"
+        ]
+      },
+      {
+        "workshopId": "2503622437",
+        "manifestId": "621391470568864691",
+        "updatedAtUnixSeconds": 1788537467,
+        "title": "Skill Recovery Journal",
+        "modIds": [
+          "SkillRecoveryJournal"
+        ]
+      },
+      {
+        "workshopId": "3786126768",
+        "manifestId": "6182548325505667554",
+        "updatedAtUnixSeconds": 1787386475,
+        "title": "Slower Sprinters B42 - 25%",
+        "modIds": [
+          "SlowerSprinters_B42_25"
+        ]
+      },
+      {
+        "workshopId": "3813489363",
+        "manifestId": "6900495594011413697",
+        "updatedAtUnixSeconds": 1791869084,
+        "title": "SMB steps",
+        "modIds": [
+          "SMB_steps"
+        ]
+      },
+      {
+        "workshopId": "3808944882",
+        "manifestId": "7269139508418745990",
+        "updatedAtUnixSeconds": 1792090530,
+        "title": "Survivor Briefing",
+        "modIds": [
+          "SurvivorBriefing"
+        ]
+      },
+      {
+        "workshopId": "3540297822",
+        "manifestId": "911412468929411424",
+        "updatedAtUnixSeconds": 1790933936,
+        "title": "TableSaw",
+        "modIds": [
+          "TableSaw"
+        ]
+      },
+      {
+        "workshopId": "3810674933",
+        "manifestId": "738113546513354974",
+        "updatedAtUnixSeconds": 1791578131,
+        "title": "Tactical Grid Inventory",
+        "modIds": [
+          "TacticalGridInventory"
+        ]
+      },
+      {
+        "workshopId": "2864373983",
+        "manifestId": "4704607978694870494",
+        "updatedAtUnixSeconds": 1779210422,
+        "title": "The Last Of Us Peace Music",
+        "modIds": [
+          "TLOUPeaceMusic"
+        ]
+      },
+      {
+        "workshopId": "3431734923",
+        "manifestId": "6389588954910787590",
+        "updatedAtUnixSeconds": 1788851206,
+        "title": "Tomb\u0027s Player Body - [Compatibility - Vanilla\u002B]",
+        "modIds": [
+          "TombBodyCompat"
+        ]
+      },
+      {
+        "workshopId": "3531765630",
+        "manifestId": "6564379501089762301",
+        "updatedAtUnixSeconds": 1773617665,
+        "title": "Tomb\u0027s Goth Hair",
+        "modIds": [
+          "TombGothHair",
+          "TombGothMakeup"
+        ]
+      },
+      {
+        "workshopId": "3650071729",
+        "manifestId": "2475267213089619654",
+        "updatedAtUnixSeconds": 1788028894,
+        "title": "True Actions Dancing",
+        "modIds": [
+          "TrueActionsDancing"
+        ]
+      },
+      {
+        "workshopId": "3784677588",
+        "manifestId": "4972508191038477855",
+        "updatedAtUnixSeconds": 1788911786,
+        "title": "3D Gun Racks",
+        "modIds": [
+          "Tuna_GunRacks"
+        ]
+      },
+      {
+        "workshopId": "3793403177",
+        "manifestId": "1259767402002893667",
+        "updatedAtUnixSeconds": 1788911849,
+        "title": "3D Equipment Lockers",
+        "modIds": [
+          "Tuna_EquipmentRacks"
+        ]
+      },
+      {
+        "workshopId": "3813806457",
+        "manifestId": "4791024301153465334",
+        "updatedAtUnixSeconds": 1791169842,
+        "title": "Universal Gun Repair B42.21",
+        "modIds": [
+          "UGR_B4221"
+        ]
+      },
+      {
+        "workshopId": "3577903007",
+        "manifestId": "5125507558851549218",
+        "updatedAtUnixSeconds": 1792125922,
+        "title": "Vanilla Foods Expanded",
+        "modIds": [
+          "VanillaFoodsExpanded"
+        ]
+      },
+      {
+        "workshopId": "2831786301",
+        "manifestId": "491904157196402996",
+        "updatedAtUnixSeconds": 1786550692,
+        "title": "Video Game Consoles",
+        "modIds": [
+          "Video_Game_Consoles"
+        ]
+      },
+      {
+        "workshopId": "3815033191",
+        "manifestId": "6519118536883168674",
+        "updatedAtUnixSeconds": 1791761450,
+        "title": "Viewpoint - Barricade Fix",
+        "modIds": [
+          "ViewpointBarricade"
+        ]
+      },
+      {
+        "workshopId": "3815531837",
+        "manifestId": "9115214677124083410",
+        "updatedAtUnixSeconds": 1791412739,
+        "title": "Viewpoint Bunker Fix",
+        "modIds": [
+          "ViewpointBunkerFix"
+        ]
+      },
+      {
+        "workshopId": "3817294484",
+        "manifestId": "2232846961188335544",
+        "updatedAtUnixSeconds": 1792130614,
+        "title": "Viewpoint - Roofs (WIP)",
+        "modIds": [
+          "ViewpointRoofs"
+        ]
+      },
+      {
+        "workshopId": "3816784011",
+        "manifestId": "882666100661540744",
+        "updatedAtUnixSeconds": 1792119782,
+        "title": "Viewpoint - Smooth Frames",
+        "modIds": [
+          "ViewpointSmoothFrames"
+        ]
+      },
+      {
+        "workshopId": "3799596085",
+        "manifestId": "3099662498728100505",
+        "updatedAtUnixSeconds": 1792146650,
+        "title": "Visible Door Damage [B42 MP]",
+        "modIds": [
+          "VisibleDoorDamagebyYurik"
+        ]
+      },
+      {
+        "workshopId": "3819844505",
+        "manifestId": "979140969962680942",
+        "updatedAtUnixSeconds": 1792153517,
+        "title": "VRAM Steady",
+        "modIds": [
+          "VRAMSteady"
+        ]
+      },
+      {
+        "workshopId": "2849467715",
+        "manifestId": "9103663714252111529",
+        "updatedAtUnixSeconds": 1786088911,
+        "title": "Water Goes Bad",
+        "modIds": [
+          "WaterGoesBad"
+        ]
+      },
+      {
+        "workshopId": "3546314080",
+        "manifestId": "696282574147509801",
+        "updatedAtUnixSeconds": 1787429137,
+        "title": "Waterpipes",
+        "modIds": [
+          "Waterpipes"
+        ]
+      },
+      {
+        "workshopId": "3615135168",
+        "manifestId": "8105702762470018720",
+        "updatedAtUnixSeconds": 1790177804,
+        "title": "Zombie Virus Vaccine [B42.20\u002B SP/MP]",
+        "modIds": [
+          "ZVirusVaccine42BETA"
+        ]
+      },
+      {
+        "workshopId": "3040632900",
+        "manifestId": "8806978158773749032",
+        "updatedAtUnixSeconds": 1791558639,
+        "title": "[Hx] \uBAA8\uB4DC \uD55C\uAE00\uD654 - \uB9F5 \uC120\uD0DD \uBC88\uC5ED",
+        "modIds": [
+          "Hx_KR_Map",
+          "Hx_KR_Mod",
+          "Hx_KR_SOTO",
+          "Hx_KR_Vanilla",
+          "Hx_KR_VanillaFoodsExpanded"
+        ]
+      },
+      {
+        "workshopId": "3690094119",
+        "manifestId": "4398519202194270732",
+        "updatedAtUnixSeconds": 1791086341,
+        "title": "42.15 \uBAA8\uB4DC \uD55C\uAD6D\uC5B4 \uBC88\uC5ED_a43_1",
+        "modIds": [
+          "ModsKOTranslation_a43_1",
+          "ModsKOTranslation_a43_2"
+        ]
+      },
+      {
+        "workshopId": "3778511497",
+        "manifestId": "2410144733036250884",
+        "updatedAtUnixSeconds": 1786496899,
+        "title": "Skully\u0027s Zombie Collision",
+        "modIds": [
+          "SkullysZombieCollision"
+        ]
+      },
+      {
+        "workshopId": "3736813592",
+        "manifestId": "4724412544472159075",
+        "updatedAtUnixSeconds": 1791584466,
+        "title": "Frockin Stompers! [Vanilla Footwear Replacement]",
+        "modIds": [
+          "GanydeBielovzki\u0027s Frockin Stompers! VFR"
+        ]
+      },
+      {
+        "workshopId": "3804822716",
+        "manifestId": "4286510604132878369",
+        "updatedAtUnixSeconds": 1791227638,
+        "title": "lockpick\u0027s \uD55C\uAD6D\uC5B4 \uBC88\uC5ED \uC218\uC815",
+        "modIds": [
+          "lockpick_ko"
+        ]
+      },
+      {
+        "workshopId": "3751941706",
+        "manifestId": "2265118515990343531",
+        "updatedAtUnixSeconds": 1792067228,
+        "title": "[B42] \uBC88\uC5ED\uC99D\uD6C4\uAD70",
+        "modIds": [
+          "KoSyndrome"
+        ]
+      },
+      {
+        "workshopId": "3814046234",
+        "manifestId": "1655406956487067137",
+        "updatedAtUnixSeconds": 1791551734,
+        "title": "\u5E27\u7387\u63D0\u5347 - ViewpointFPS\u002B",
+        "modIds": [
+          "ViewpointFPSPlus"
+        ]
+      },
+      {
+        "workshopId": "3817842243",
+        "manifestId": "1510737387442644383",
+        "updatedAtUnixSeconds": 1792152186,
+        "title": "Viewpoint Fixes",
+        "modIds": [
+          "ViewpointFixes"
+        ]
+      },
+      {
+        "workshopId": "3812518796",
+        "manifestId": "240794055207241554",
+        "updatedAtUnixSeconds": 1791474253,
+        "title": "Viewpoint - Place Items",
+        "modIds": [
+          "ViewpointPlace"
+        ]
+      },
+      {
+        "workshopId": "3811344119",
+        "manifestId": "4375510206033784459",
+        "updatedAtUnixSeconds": 1791859084,
+        "title": "Viewpoint - Light Fix",
+        "modIds": [
+          "ViewpointLight"
+        ]
+      },
+      {
+        "workshopId": "3813929757",
+        "manifestId": "2580460478764591778",
+        "updatedAtUnixSeconds": 1791682495,
+        "title": "Project Viewpoint: General Mod Map Fix",
+        "modIds": [
+          "PV-modmapbakefix"
+        ]
+      }
+    ],
+    "modLoadOrder": [
+      "ServerWorkshopModAutoRestartB42",
+      "ZombieBuddy",
+      "ModLoadOrderSorter_b42",
+      "ModManager",
+      "HBVCEFb42",
+      "MoodleFramework",
+      "NeatUI_Framework",
+      "ProjectTarkovFramework",
+      "UnifiedCarryWeightFramework",
+      "TombBody",
+      "TombBodyTex",
+      "AddSlopFacesNeckFixTombBodyTex",
+      "ETO_B",
+      "InvisiblePatches",
+      "SPNCC",
+      "SPNCCDetails",
+      "SPNCCDetailsHD",
+      "Viewpoint",
+      "ViewpointSurface",
+      "ATakeABathAndShowerDepthMap",
+      "BrandenburgEkronIrvingtonSpawnLocations",
+      "Constown42",
+      "newhartburg",
+      "PROJECTRVInterior42",
+      "RavenCreekB42",
+      "RVInteriorExpansion",
+      "RVInteriorExpansionPart2",
+      "Trelai_B42",
+      "damnlib",
+      "49powerWagon",
+      "63beetle",
+      "69mini",
+      "69mini_ItalianJob",
+      "78amgeneralM35A2",
+      "78amgeneralM35A2extra",
+      "78amgeneralM49A2C",
+      "78amgeneralM50A3",
+      "82oshkoshM911",
+      "83gmcGseriesVans",
+      "89defender",
+      "99fordCVPI",
+      "AMGeneralTankerFunctionality",
+      "tsarslib",
+      "autotsartrailers",
+      "KI5campers",
+      "AnimSyncSmth",
+      "aparosa_vpmo_RaccoonCityB42",
+      "AreaTasks",
+      "BION_WarmUp",
+      "BLTAnnotations",
+      "Briefing",
+      "Buttstroke",
+      "CarEnterExitFix",
+      "CarWeaponFix",
+      "CharacterOutfitPresetFix",
+      "CommonSenseReup",
+      "ContainerCapacityIndicator",
+      "ContextMenuCleanup",
+      "CoolSit",
+      "Craft and Build Category Translate [B42]",
+      "CustomLightSwitch",
+      "DerpyAutodrive",
+      "DetailedDescriptionsForOccupationsAndTraits",
+      "DG_MIVehicles",
+      "Ellie1Voice",
+      "EURY_DST",
+      "ExhaustivePowerRework",
+      "FixBlowTorchPropaneTank",
+      "FixedLightOnBeltAF",
+      "FWOBenchPressTreadmill",
+      "FWOFitnessWorkoutOverhaul",
+      "GrassierGrassViewpoint",
+      "LifestyleHobbies",
+      "GuitarMusicAddon",
+      "HardshipInertia",
+      "HHNR",
+      "HotBrassViewpoint",
+      "improvedhairmenubuild42",
+      "ihm_picker",
+      "ImmersiveBackpackSounds (3783711793)",
+      "ImmersiveDriving",
+      "Improved-KorChat",
+      "InjuredZombiesStumble",
+      "ItIsOfInterestToMe",
+      "VehicleRepairOverhaul",
+      "VehicleSalvageOverhaulB42",
+      "Ivmakk_RestoreEngineQuality",
+      "JaxeRevival",
+      "JeevesClaims",
+      "JeevesZones",
+      "KI5GeneralFixes",
+      "KI5PerfPatch",
+      "KillCount",
+      "TchernoLib",
+      "LeanAndLie",
+      "LGExtendedElectricity",
+      "LGExtendedPlumbing",
+      "LGExtendedSafehouses",
+      "LGWalkieTalkies",
+      "MapAllKnownFix",
+      "MapSymbolSizeSlider",
+      "ModernFirearmsSystem",
+      "MFS_community_fix",
+      "MFS_Expansion_UI",
+      "MFS_LootControl",
+      "MinimapStyleOptions",
+      "ModernFirearms_LootFix",
+      "ModFolders",
+      "MW Jeeves KO",
+      "MW \uBAA8\uB4DC\uD55C\uAE00 \uBC88\uC5ED",
+      "NieR Replicant/Automata/Drakengard Lifestyle Addon",
+      "NoLighterNeeded",
+      "OldPoint",
+      "P4TidyUpMeister",
+      "P4VideoMeister",
+      "PFHDTrueCargo",
+      "PlumbedSinkMainsFix",
+      "Project_Cook",
+      "ProjectTarkovOverall",
+      "ProjectViewpointKI5VehiclePartsFix",
+      "ProjectViewpointNearVegetation",
+      "PZOptKorean",
+      "PZVoxelStudioViewpoint",
+      "RealisticDash",
+      "RecipeUnlockGuide",
+      "ReloadAllMagazines",
+      "REORDER_THE_HOTBAR",
+      "RVInteriorVisionFixB4220",
+      "SearchContainers",
+      "SmokingSoundsOverhaul",
+      "StarlitLibrary",
+      "StowInHands",
+      "TacHoldFancyHandwork",
+      "TacticalFlashlightAnimationB42",
+      "TakeAnyAmount",
+      "TrueLineOfSight",
+      "TrueSleep",
+      "TrueSwimming",
+      "TrueWeight",
+      "TTRPPosesB42",
+      "TryBeforeYouWear",
+      "twistdarkermap",
+      "ViewpointFences3D",
+      "ViewpointLivingProps",
+      "ViewpointPlacementFix",
+      "ViewpointRightClick",
+      "ViewpointTrueWeathers",
+      "ViewpointRollingHills",
+      "ViewpointTrueWeathersGameplay",
+      "VoiceEllieWilliams",
+      "VoiceJoelMiller",
+      "VSUIKI5",
+      "VVA_cullseats",
+      "WashFaster",
+      "WhoseKeyIsThis",
+      "WorldMapNameSymbols",
+      "ZombieVisibilityFix",
+      "alicesWeaponSling",
+      "BritaArmorB42",
+      "EFTBP",
+      "FH",
+      "GanydeBielovzki\u0027s Frockin Backstage!",
+      "GanydeBielovzki\u0027s Frockin Splendor! Vol.2",
+      "GanydeBielovzki\u0027s Frockin Splendor! Vol.3",
+      "GanydeBielovzki\u0027s Frockin Splendor! Vol.4",
+      "GanydeBielovzki\u0027s Frockin Wiseguys",
+      "PeixesBRExpansion",
+      "TTRPHairstyles",
+      "VanillaGearExpanded",
+      "TombBodyCustom",
+      "AddSlopFaces",
+      "AddSlopFacesMale",
+      "alicesKitsunesCrossbowMod",
+      "ammomaker",
+      "BackpackSystemB42",
+      "Bandits2",
+      "BasileDoors3D",
+      "BetterFireExtinguishers",
+      "BetterFlashlightsFixed",
+      "BladesmithSystemB42",
+      "BuildingCraft",
+      "CarRoofFix",
+      "ChuckleberryFinnAlertSystem",
+      "claimableoutposts_dynamic_hordes",
+      "CurlUp",
+      "CVI",
+      "DynamicTraits",
+      "errorMagnifier",
+      "FenceSheets",
+      "FittedBarricades",
+      "FittedSheets",
+      "Galmuri11font",
+      "GanydeBielovzki\u0027s Frockin Splendor!",
+      "HugThePlushie",
+      "immersive_hotwire",
+      "ImmersiveSnow",
+      "ImmersiveSnowViewpoint",
+      "ItemArrange",
+      "KoreanHansang",
+      "low_profile_glassis_tombs_body_positionfix",
+      "MFS_BackpackSystem_fix",
+      "MFS_BladesmithSystem_fix",
+      "MFS_community_fix_low_RPM",
+      "ModernFirearmsSystemDamageSandbox",
+      "MuzzleSmoke",
+      "NicksSledgehammerFix",
+      "NPCCrew",
+      "PagerMod",
+      "Project_Cook_Pixel_Icon_Pack",
+      "ProjectTarkovMainMenu",
+      "PZTheMutants",
+      "ReducedWeightWalkieTalkies",
+      "RepairAnyClothes",
+      "RPGSurvivorProgression",
+      "ShootToThrillMultiplayer",
+      "SkillRecoveryJournal",
+      "SlowerSprinters_B42_25",
+      "SMB_steps",
+      "SurvivorBriefing",
+      "TableSaw",
+      "TacticalGridInventory",
+      "TakeABathAndShowerNew",
+      "TLOUPeaceMusic",
+      "TombBodyCompat",
+      "TombGothHair",
+      "TombGothMakeup",
+      "TrueActionsDancing",
+      "Tuna_GunRacks",
+      "Tuna_EquipmentRacks",
+      "UGR_B4221",
+      "VanillaFoodsExpanded",
+      "VanillaVehiclesAnimated",
+      "Video_Game_Consoles",
+      "ViewpointBarricade",
+      "ViewpointBunkerFix",
+      "ViewpointRoofs",
+      "ViewpointSmoothFrames",
+      "VisibleDoorDamagebyYurik",
+      "VRAMSteady",
+      "WaterGoesBad",
+      "Waterpipes",
+      "ZVirusVaccine42BETA",
+      "alicesKitsunesCrossbowMod_KOR",
+      "AreaTasks_KOR",
+      "BritaB42 KO MW",
+      "Hx_KR_Map",
+      "Hx_KR_Mod",
+      "Hx_KR_SOTO",
+      "Hx_KR_Vanilla",
+      "LGRealisticPowerUsage",
+      "ModsKOTranslation_a43_1",
+      "ModsKOTranslation_a43_2",
+      "ProjectALifeJimmy_KOR",
+      "ProjectALifeNPCs_KOR",
+      "RoamingSurvivors_KOR",
+      "RSJobs_KOR",
+      "SkullysZombieCollision",
+      "SMB_steps_KOR",
+      "TacticalGridInventory_KOR",
+      "WashFaster_KOR",
+      "GanydeBielovzki\u0027s Frockin Stompers! VFR",
+      "lockpick_ko",
+      "KoSyndrome",
+      "ExtractionMode_KOR",
+      "Hx_KR_VanillaFoodsExpanded",
+      "ViewpointFPSPlus",
+      "ViewpointFixes",
+      "ViewpointPlace",
+      "ViewpointLight",
+      "PV-modmapbakefix"
+    ],
+    "modTitles": {
+      "ServerWorkshopModAutoRestartB42": "Server Workshop Mod Update Checker \u0026 Auto-Restart (B42) 42.13\u002B MP HDRcade",
+      "ZombieBuddy": "ZombieBuddy",
+      "ModLoadOrderSorter_b42": "Mod Load Order Sorter [b42]",
+      "ModManager": "[B42] Mod Manager",
+      "HBVCEFb42": "Hot Brass - Visible Casing Ejection Framework [B42.15]",
+      "MoodleFramework": "MoodleFramework",
+      "NeatUI_Framework": "NeatUI_Framework",
+      "ProjectTarkovFramework": "Project Tarkov - Framework",
+      "UnifiedCarryWeightFramework": "Unified Carry Weight Framework",
+      "TombBody": "Tomb\u0027s Player Body",
+      "TombBodyTex": "Tomb\u0027s Player Body - Textures",
+      "AddSlopFacesNeckFixTombBodyTex": "Add Slop Faces - Neck Fix - Textures",
+      "ETO_B": "Every Texture Optimized: Well Balanced",
+      "InvisiblePatches": "[B42] Invisible Patches mod",
+      "SPNCC": "Spongie\u0027s Character Customisation",
+      "SPNCCDetails": "Spongie\u0027s Character Customisation - Details Pack",
+      "SPNCCDetailsHD": "Spongie\u0027s Character Customisation - Details Pack HD Textures",
+      "Viewpoint": "Viewpoint",
+      "ViewpointSurface": "Viewpoint - Surface Fix",
+      "ATakeABathAndShowerDepthMap": "Take A Bath And Shower: DepthMap fix",
+      "BrandenburgEkronIrvingtonSpawnLocations": "Brandenburg, Ekron and Irvington Spawn Locations",
+      "Constown42": "Constown B42",
+      "newhartburg": "New Hartburg",
+      "PROJECTRVInterior42": "[B42]PROJECT RV Interior",
+      "RavenCreekB42": "Raven Creek B42",
+      "RVInteriorExpansion": "RV Interior Expansion",
+      "RVInteriorExpansionPart2": "RV Interior Expansion Part 2",
+      "Trelai_B42": "Trelai - Unoficial B42 port",
+      "damnlib": "that DAMN Library",
+      "49powerWagon": "\u002749 Dodge Power Wagon Crew Cab",
+      "63beetle": "\u002763 Volkswagen 1300 Beetle",
+      "69mini": "\u002769 Mini Mk2",
+      "69mini_ItalianJob": "\u002769 Mini Mk2 Italian Job",
+      "78amgeneralM35A2": "\u002778 AM General M35 Series Trucks",
+      "78amgeneralM35A2extra": "\u002778 AM General M35 Series Trucks Extra Textures",
+      "78amgeneralM49A2C": "\u002778 AM General M49A2C",
+      "78amgeneralM50A3": "\u002778 AM General M50A3 Water Tanker",
+      "82oshkoshM911": "\u002782 Oshkosh M911",
+      "83gmcGseriesVans": "\u002783 GMC G-Series Vans",
+      "89defender": "\u002789 LAND ROVER Defender",
+      "99fordCVPI": "\u002799 Ford Crown Victoria Police Interceptor",
+      "AMGeneralTankerFunctionality": "AM General Tanker Functionality",
+      "tsarslib": "Tsar\u0027s Common Library",
+      "autotsartrailers": "Autotsar Trailers",
+      "KI5campers": "Campers!",
+      "AnimSyncSmth": "Animations Smooth Sync Vehicle 42.13.2",
+      "aparosa_vpmo_RaccoonCityB42": "Project Viewpoint Map Mod Furniture",
+      "AreaTasks": "Area Tasks",
+      "BION_WarmUp": "Warm Up",
+      "BLTAnnotations": "Share Annotations",
+      "Briefing": "[B42] Briefing",
+      "Buttstroke": "Buttstroke",
+      "CarEnterExitFix": "Vehicle Enter/Exit Fix",
+      "CarWeaponFix": "Vehicle Weapon Clipping Fix",
+      "CharacterOutfitPresetFix": "Character Outfit Preset Fix",
+      "CommonSenseReup": "Common Sense Reup",
+      "ContainerCapacityIndicator": "Container Capacity Indicator",
+      "ContextMenuCleanup": "Context Menu Cleanup",
+      "CoolSit": "Cool Sit",
+      "Craft and Build Category Translate [B42]": "Craft and Build Category Translate [B42]",
+      "CustomLightSwitch": "Custom Light Switch",
+      "DerpyAutodrive": "DerpyAutodrive",
+      "DetailedDescriptionsForOccupationsAndTraits": "Detailed Descriptions for Occupations and Traits",
+      "DG_MIVehicles": "More Immersive Vehicles B42",
+      "Ellie1Voice": "Ellie - Voice",
+      "EURY_DST": "Detailed Skill Tooltips",
+      "ExhaustivePowerRework": "Exhaustive Power Rework",
+      "FixBlowTorchPropaneTank": "Fix BlowTorch \u0026 PropaneTank",
+      "FixedLightOnBeltAF": "[B42.21] Simple Belt Flashlight\u002B (Better Flashlights Compatible)",
+      "FWOBenchPressTreadmill": "FWO Working Bench Press \u0026 Treadmill",
+      "FWOFitnessWorkoutOverhaul": "FWO Fitness Workout Overhaul",
+      "GrassierGrassViewpoint": "Grassier Grass (Viewpoint)",
+      "LifestyleHobbies": "Lifestyle: Hobbies",
+      "GuitarMusicAddon": "Guitar Music Addon",
+      "HardshipInertia": "Hardship: Inertia",
+      "HHNR": "Hark\u0027s Horde Night Revamped",
+      "HotBrassViewpoint": "Hot Brass for Viewpoint",
+      "improvedhairmenubuild42": "Improved Hair Menu Build 42",
+      "ihm_picker": "Improved Hair Menu Hair Color Picker [MULTIPLAYER ONLY]",
+      "ImmersiveBackpackSounds (3783711793)": "Immersive Backpack Sounds",
+      "ImmersiveDriving": "Immersive Driving",
+      "Improved-KorChat": "[MLT]\uAC1C\uC120\uB41C \uD55C\uAE00\uD0C0\uC774\uD551",
+      "InjuredZombiesStumble": "Injured Zombies Stumble",
+      "ItIsOfInterestToMe": "It is of interest to me!",
+      "VehicleRepairOverhaul": "Vehicle Repair Overhaul [build 42]",
+      "VehicleSalvageOverhaulB42": "Vehicle Salvage Overhaul [build 42]",
+      "Ivmakk_RestoreEngineQuality": "Restore Engine Quality",
+      "JaxeRevival": "REVIVAL by Jaxe",
+      "JeevesClaims": "Jeeve\u0027s Claims",
+      "JeevesZones": "Jeeve\u0027s Zones",
+      "KI5GeneralFixes": "KI5 General Fixes",
+      "KI5PerfPatch": "KI5 Vehicle Performance Patch (Unofficial)",
+      "KillCount": "KillCount",
+      "TchernoLib": "TchernoLib",
+      "LeanAndLie": "Lean \u0026 Lie",
+      "LGExtendedElectricity": "LG Extended Electricity",
+      "LGExtendedPlumbing": "LG Extended Plumbing",
+      "LGExtendedSafehouses": "LG Extended Safehouses",
+      "LGWalkieTalkies": "LG Walkie Talkies",
+      "MapAllKnownFix": "Map All Known Fix (B42 MP)",
+      "MapSymbolSizeSlider": "Map Symbol Size Slider",
+      "ModernFirearmsSystem": "AAA_ModernFirearmsSystem(42.19)(SP/MP)",
+      "MFS_community_fix": "[B42.20] Modern Firearms System Community Fix Patch",
+      "MFS_Expansion_UI": "MFS - Expansion UI (Community Patch)",
+      "MFS_LootControl": "MFS Loot Control",
+      "MinimapStyleOptions": "Minimap Style Options",
+      "ModernFirearms_LootFix": "ModernFirearmsLootFix",
+      "ModFolders": "ModFolders",
+      "MW Jeeves KO": "MW Jeeves \uD55C\uAE00 \uBC88\uC5ED",
+      "MW \uBAA8\uB4DC\uD55C\uAE00 \uBC88\uC5ED": "MW \uBAA8\uB4DC\uD55C\uAE00 \uBC88\uC5ED",
+      "NieR Replicant/Automata/Drakengard Lifestyle Addon": "NieR Replicant/Automata/Drakengard Lifestyle Addon",
+      "NoLighterNeeded": "I Don\u0027t Need A Lighter",
+      "OldPoint": "OldPoint",
+      "P4TidyUpMeister": "Tidy Up Meister",
+      "P4VideoMeister": "Video Meister",
+      "PFHDTrueCargo": "True Cargo",
+      "PlumbedSinkMainsFix": "Plumbed Sink Mains Water Fix [B42]",
+      "Project_Cook": "Project Cook",
+      "ProjectTarkovOverall": "Project Tarkov - Overall",
+      "ProjectViewpointKI5VehiclePartsFix": "Project Viewpoint - KI5 Vehicle Parts Fix",
+      "ProjectViewpointNearVegetation": "Project Viewpoint: TREE in 3D",
+      "PZOptKorean": "PZ_Optimization \uD55C\uAE00\uD328\uCE58 [B42]",
+      "PZVoxelStudioViewpoint": "6277 3D models for Viewpoint [sour_kisel]",
+      "RealisticDash": "Realistic Dashboard and Gauges",
+      "RecipeUnlockGuide": "Recipe Unlock Guide [B42]",
+      "ReloadAllMagazines": "Reload All Magazines",
+      "REORDER_THE_HOTBAR": "Reorder The Hotbar",
+      "RVInteriorVisionFixB4220": "Project RV Interior Vision Fix [B42.20]",
+      "SearchContainers": "Search Containers",
+      "SmokingSoundsOverhaul": "Smoking Sounds Overhaul",
+      "StarlitLibrary": "Starlit Library",
+      "StowInHands": "Hands",
+      "TacHoldFancyHandwork": "Tactical Hold \u002B Fancy Handwork",
+      "TacticalFlashlightAnimationB42": "Tactical Flashlight Animation [B42]",
+      "TakeAnyAmount": "TakeAnyAmount",
+      "TrueLineOfSight": "True Line of Sight",
+      "TrueSleep": "True Sleep - Better Multiplayer Sleep",
+      "TrueSwimming": "True Swimming",
+      "TrueWeight": "True Weight",
+      "TTRPPosesB42": "TTRP Poses",
+      "TryBeforeYouWear": "Try Before You Wear",
+      "twistdarkermap": "TwisTonFire - Darker Map",
+      "ViewpointFences3D": "Viewpoint - 3D Fences",
+      "ViewpointLivingProps": "Viewpoint: Living Props",
+      "ViewpointPlacementFix": "Viewpoint Placement Fix",
+      "ViewpointRightClick": "Viewpoint - Right Click Fix",
+      "ViewpointTrueWeathers": "Project Viewpoint: True Weathers \u0026 Lighting",
+      "ViewpointRollingHills": "Viewpoint Rolling Hills",
+      "ViewpointTrueWeathersGameplay": "Project Viewpoint: True Weathers - Gameplay",
+      "VoiceEllieWilliams": "Voice - Ellie Williams",
+      "VoiceJoelMiller": "Voice - Joel Miller",
+      "VSUIKI5": "Vehicle Seat UI (KI5)",
+      "VVA_cullseats": "Vanilla Vehicles Animated: disable passenger rendering",
+      "WashFaster": "Wash Faster",
+      "WhoseKeyIsThis": "Whose Key Is This?",
+      "WorldMapNameSymbols": "WorldMap Name Symbols",
+      "ZombieVisibilityFix": "Zombie Visibility Fix",
+      "alicesWeaponSling": "Alice\u0027s Weapon Sling",
+      "BritaArmorB42": "[B42] Brita\u0027s Armor Pack - Build 42 Port",
+      "EFTBP": "Escape From Tarkov Backpacks",
+      "FH": "Fluffy Hair",
+      "GanydeBielovzki\u0027s Frockin Backstage!": "Frockin Backstage!",
+      "GanydeBielovzki\u0027s Frockin Splendor! Vol.2": "Frockin Splendor! Vol.2",
+      "GanydeBielovzki\u0027s Frockin Splendor! Vol.3": "Frockin Splendor! Vol.3",
+      "GanydeBielovzki\u0027s Frockin Splendor! Vol.4": "Frockin Splendor! Vol.4",
+      "GanydeBielovzki\u0027s Frockin Wiseguys": "Frockin Wiseguys!",
+      "PeixesBRExpansion": "Fishing Overhaul BR [B42]",
+      "TTRPHairstyles": "TTRP Hairstyles",
+      "VanillaGearExpanded": "Vanilla Gear Expanded",
+      "TombBodyCustom": "Tomb\u0027s Player Body - [Customisation]",
+      "AddSlopFaces": "Add Slop Faces",
+      "AddSlopFacesMale": "Add Slop Faces - Male",
+      "alicesKitsunesCrossbowMod": "Kitsune\u0027s Crossbow Mod",
+      "ammomaker": "Ammo Maker",
+      "BackpackSystemB42": "AAA_BackpackSystem(42.19)(SP/MP)",
+      "Bandits2": "Bandits",
+      "BasileDoors3D": "Project Viewpoint - 3D Doors, Gates \u0026 Garages",
+      "BetterFireExtinguishers": "Better Fire Extinguishers",
+      "BetterFlashlightsFixed": "[B42] Better Flashlights",
+      "BladesmithSystemB42": "AAA_BladesmithSystem(42.19)(SP/MP)",
+      "BuildingCraft": "BuildingCraft",
+      "CarRoofFix": "Vehicle Aim Roof Fix",
+      "ChuckleberryFinnAlertSystem": "Mod Update and Alert System",
+      "claimableoutposts_dynamic_hordes": "Dynamic Outposts",
+      "CurlUp": "Curl Up",
+      "CVI": "Carry Visible Items",
+      "DynamicTraits": "Dynamic Traits and Expanded Moodles",
+      "errorMagnifier": "errorMagnifier",
+      "FenceSheets": "Fence Sheets",
+      "FittedBarricades": "Fitted Barricades",
+      "FittedSheets": "Fitted Sheets",
+      "Galmuri11font": "\uD55C\uAD6D\uC5B4 \uD3F0\uD2B8 - \uAC08\uBB34\uB9AC11",
+      "GanydeBielovzki\u0027s Frockin Splendor!": "Frockin Splendor!",
+      "HugThePlushie": "Hug The Plushie!",
+      "immersive_hotwire": "Immersive Hotwire",
+      "ImmersiveSnow": "Immersive Snow",
+      "ImmersiveSnowViewpoint": "Immersive Snow - Viewpoint",
+      "ItemArrange": "Item Arrange",
+      "KoreanHansang": "\uD55C\uC2DD \uD55C\uC0C1 / Korean Hansang",
+      "low_profile_glassis_tombs_body_positionfix": "Eyewear rework project patched for Tombs body [B42]",
+      "MFS_BackpackSystem_fix": "MFS_BackpackSystem_fix",
+      "MFS_BladesmithSystem_fix": "MFS_BladesmithSystem_fix",
+      "MFS_community_fix_low_RPM": "Modern Firearm System community Patch low RPM submod",
+      "ModernFirearmsSystemDamageSandbox": "AAA_MFSGunDamageSandbox\u67AA\u68B0\u4F24\u5BB3\u6C99\u76D2",
+      "MuzzleSmoke": "Muzzle Smoke",
+      "NicksSledgehammerFix": "Nick\u0027s Sledgehammer Fix",
+      "NPCCrew": "NPC Crew",
+      "PagerMod": "Pager Network",
+      "Project_Cook_Pixel_Icon_Pack": "Project Cook Pixel Icon Pack",
+      "ProjectTarkovMainMenu": "Project Tarkov - Main Menu",
+      "PZTheMutants": "The Mutants",
+      "ReducedWeightWalkieTalkies": "Reduced Weight Walkie Talkies",
+      "RepairAnyClothes": "Repair Any Clothes",
+      "RPGSurvivorProgression": "RPG Survivor Progression [v1.2 | B42.20.4 | MP\u002BSP]",
+      "ShootToThrillMultiplayer": "Shoot to Thrill - Multiplayer (Restart game after enabling)",
+      "SkillRecoveryJournal": "Skill Recovery Journal",
+      "SlowerSprinters_B42_25": "Slower Sprinters B42 - 25%",
+      "SMB_steps": "SMB steps",
+      "SurvivorBriefing": "Survivor Briefing",
+      "TableSaw": "TableSaw",
+      "TacticalGridInventory": "Tactical Grid Inventory",
+      "TakeABathAndShowerNew": "Take A Bath And Shower [SP/MP]",
+      "TLOUPeaceMusic": "The Last Of Us Peace Music",
+      "TombBodyCompat": "Tomb\u0027s Player Body - [Compatibility - Vanilla\u002B]",
+      "TombGothHair": "Tomb\u0027s Goth Hair",
+      "TombGothMakeup": "Tomb\u0027s Goth Makeup",
+      "TrueActionsDancing": "True Actions Dancing",
+      "Tuna_GunRacks": "3D Gun Racks",
+      "Tuna_EquipmentRacks": "3D Equipment Lockers",
+      "UGR_B4221": "Universal Gun Repair B42.21",
+      "VanillaFoodsExpanded": "Vanilla Foods Expanded",
+      "VanillaVehiclesAnimated": "Vanilla Vehicles Animated",
+      "Video_Game_Consoles": "Video Game Consoles",
+      "ViewpointBarricade": "Viewpoint - Barricade Fix",
+      "ViewpointBunkerFix": "Viewpoint Bunker Fix",
+      "ViewpointRoofs": "Viewpoint - Roofs (WIP)",
+      "ViewpointSmoothFrames": "Viewpoint - Smooth Frames",
+      "VisibleDoorDamagebyYurik": "Visible Door Damage [B42 MP]",
+      "VRAMSteady": "VRAM Steady",
+      "WaterGoesBad": "Water Goes Bad",
+      "Waterpipes": "Waterpipes",
+      "ZVirusVaccine42BETA": "Zombie Virus Vaccine [B42.20\u002B SP/MP]",
+      "alicesKitsunesCrossbowMod_KOR": "\uD0C0\uB974\uCF54\uD504 \uC11C\uBC84 \uBAA8\uB4DC \uD55C\uAE00\uD654 - alicesKitsunesCrossbowMod-3783567014",
+      "AreaTasks_KOR": "\uD0C0\uB974\uCF54\uD504 \uC11C\uBC84 \uBAA8\uB4DC \uD55C\uAE00\uD654 - AreaTasks-3793163745",
+      "BritaB42 KO MW": "Brita B42 \uD55C\uAE00 \uBC88\uC5ED MW",
+      "Hx_KR_Map": "[Hx] \uBAA8\uB4DC \uD55C\uAE00\uD654 - \uB9F5 \uC120\uD0DD \uBC88\uC5ED",
+      "Hx_KR_Mod": "[Hx] \uBAA8\uB4DC \uD55C\uAE00\uD654 - \uD1B5\uD569 \uBC88\uC5ED",
+      "Hx_KR_SOTO": "[Hx] \uBAA8\uB4DC \uD55C\uAE00\uD654 - SOTO, Hephas Occupations",
+      "Hx_KR_Vanilla": "[Hx] \uBC14\uB2D0\uB77C \uD55C\uAE00\uD654",
+      "LGRealisticPowerUsage": "LG Realistic Power Usage",
+      "ModsKOTranslation_a43_1": "42.15 \uBAA8\uB4DC \uD55C\uAD6D\uC5B4 \uBC88\uC5ED_a43_1",
+      "ModsKOTranslation_a43_2": "42.15 \uBAA8\uB4DC \uD55C\uAD6D\uC5B4 \uBC88\uC5ED_a43_2",
+      "ProjectALifeJimmy_KOR": "\uD0C0\uB974\uCF54\uD504 \uC11C\uBC84 \uBAA8\uB4DC \uD55C\uAE00\uD654 - ProjectALifeJimmy-3806944055",
+      "ProjectALifeNPCs_KOR": "\uD0C0\uB974\uCF54\uD504 \uC11C\uBC84 \uBAA8\uB4DC \uD55C\uAE00\uD654 - ProjectALifeNPCs-3803984183",
+      "RoamingSurvivors_KOR": "\uD0C0\uB974\uCF54\uD504 \uC11C\uBC84 \uBAA8\uB4DC \uD55C\uAE00\uD654 - RoamingSurvivors-3797874733",
+      "RSJobs_KOR": "\uD0C0\uB974\uCF54\uD504 \uC11C\uBC84 \uBAA8\uB4DC \uD55C\uAE00\uD654 - RSJobs-3809553853",
+      "SkullysZombieCollision": "Skully\u0027s Zombie Collision",
+      "SMB_steps_KOR": "\uD0C0\uB974\uCF54\uD504 \uC11C\uBC84 \uBAA8\uB4DC \uD55C\uAE00\uD654 - SMB_steps-3813489363",
+      "TacticalGridInventory_KOR": "\uD0C0\uB974\uCF54\uD504 \uC11C\uBC84 \uBAA8\uB4DC \uD55C\uAE00\uD654 - TacticalGridInventory-3810674933",
+      "WashFaster_KOR": "\uD0C0\uB974\uCF54\uD504 \uC11C\uBC84 \uBAA8\uB4DC \uD55C\uAE00\uD654 - WashFaster-3796765129",
+      "GanydeBielovzki\u0027s Frockin Stompers! VFR": "Frockin Stompers! [Vanilla Footwear Replacement]",
+      "lockpick_ko": "lockpick\u0027s \uD55C\uAD6D\uC5B4 \uBC88\uC5ED \uC218\uC815",
+      "KoSyndrome": "[B42] \uBC88\uC5ED\uC99D\uD6C4\uAD70",
+      "ExtractionMode_KOR": "\uD0C0\uB974\uCF54\uD504 \uC11C\uBC84 \uBAA8\uB4DC \uD55C\uAE00\uD654 - ExtractionMode-3785397275",
+      "Hx_KR_VanillaFoodsExpanded": "[Hx] \uBAA8\uB4DC \uD55C\uAE00\uD654 - Vanilla Foods Expanded \uBC88\uC5ED",
+      "ViewpointFPSPlus": "\u5E27\u7387\u63D0\u5347 - ViewpointFPS\u002B",
+      "ViewpointFixes": "Viewpoint Fixes",
+      "ViewpointPlace": "Viewpoint - Place Items",
+      "ViewpointLight": "Viewpoint - Light Fix",
+      "PV-modmapbakefix": "Project Viewpoint: General Mod Map Fix"
+    },
+    "mapLoadOrder": []
+  }
+}
